@@ -9,3 +9,4 @@ test("displays the text 'please pass this test'", () => {
 
   expect(screen.queryByText("please pass this test")).toBeInTheDocument();
 });
+<h1> hello from the Header!</h1>
